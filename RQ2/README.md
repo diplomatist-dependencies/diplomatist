@@ -1,6 +1,6 @@
 We deployed *Diplomatist* to iteratively analyze 612,249 Java projects from the *Maven* ecosystem, all of which were the latest released versions dated January 1, 2024.
 
-Download: [click](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto)
+Download: [click](https://drive.google.com/drive/folders/1uL-HWxpONAvMPw7DjcGv0f42FVaxIngM?usp=sharing)
 
 We upload all our experimental data to Google Drive. The size of the SQL files is excessively large.
 
